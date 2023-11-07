@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/dashboard/static/js/main.c1ecdf53.js",
+    "main.js": "/dashboard/static/js/main.6b919fa5.js",
+    "static/media/secondLandsapeBg1x-min.png": "/dashboard/static/media/secondLandsapeBg1x-min.2f48403958a9a114131a.png",
+    "static/media/firstLandsapeBg1x-min.png": "/dashboard/static/media/firstLandsapeBg1x-min.c60aeea27c28856c6a5a.png",
     "index.html": "/dashboard/index.html",
-    "main.c1ecdf53.js.map": "/dashboard/static/js/main.c1ecdf53.js.map"
+    "main.6b919fa5.js.map": "/dashboard/static/js/main.6b919fa5.js.map"
   },
   "entrypoints": [
-    "static/js/main.c1ecdf53.js"
+    "static/js/main.6b919fa5.js"
   ]
 }
