@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dashboard/static/css/main.2ed6fea9.css",
-    "main.js": "/dashboard/static/js/main.6041e881.js",
+    "main.css": "/dashboard/static/css/main.ca178fb4.css",
+    "main.js": "/dashboard/static/js/main.14f84290.js",
     "static/media/bgRect2.png": "/dashboard/static/media/bgRect2.6a6c4b93045ac576e49e.png",
     "static/media/secondLandsapeBg1x-min.png": "/dashboard/static/media/secondLandsapeBg1x-min.2f48403958a9a114131a.png",
     "static/media/firstLandsapeBg1x-min.png": "/dashboard/static/media/firstLandsapeBg1x-min.c60aeea27c28856c6a5a.png",
@@ -17,11 +17,11 @@
     "static/media/plus.svg": "/dashboard/static/media/plus.5bbb14c8840ff383e2b34a9103dc8fd9.svg",
     "static/media/selectarrow.svg": "/dashboard/static/media/selectarrow.7952348de53019e917ef11121b2ae644.svg",
     "static/media/linevert.svg": "/dashboard/static/media/linevert.b9a61d0103b76fabfdad2add3fa54b5f.svg",
-    "main.2ed6fea9.css.map": "/dashboard/static/css/main.2ed6fea9.css.map",
-    "main.6041e881.js.map": "/dashboard/static/js/main.6041e881.js.map"
+    "main.ca178fb4.css.map": "/dashboard/static/css/main.ca178fb4.css.map",
+    "main.14f84290.js.map": "/dashboard/static/js/main.14f84290.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ed6fea9.css",
-    "static/js/main.6041e881.js"
+    "static/css/main.ca178fb4.css",
+    "static/js/main.14f84290.js"
   ]
 }
