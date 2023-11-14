@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/dashboard/static/css/main.ca178fb4.css",
-    "main.js": "/dashboard/static/js/main.6d8f11bf.js",
+    "main.css": "/dashboard/static/css/main.2bec78f9.css",
+    "main.js": "/dashboard/static/js/main.f8525372.js",
     "static/media/bgRect2.png": "/dashboard/static/media/bgRect2.6a6c4b93045ac576e49e.png",
     "static/media/secondLandsapeBg1x-min.png": "/dashboard/static/media/secondLandsapeBg1x-min.2f48403958a9a114131a.png",
     "static/media/firstLandsapeBg1x-min.png": "/dashboard/static/media/firstLandsapeBg1x-min.c60aeea27c28856c6a5a.png",
     "static/media/award.svg": "/dashboard/static/media/award.7cc4607c13e5ea9140e7ff3fc7ce80de.svg",
+    "static/media/errorsvg.svg": "/dashboard/static/media/errorsvg.94e24c1fbcda2e04e9caf1c77825067f.svg",
     "static/media/logout.svg": "/dashboard/static/media/logout.0ff416af9141e8ec1342533d3866630a.svg",
     "static/media/trophy.svg": "/dashboard/static/media/trophy.199d60db4e0e7f6315a5fa397bb693ea.svg",
     "static/media/challenge.svg": "/dashboard/static/media/challenge.cd87c42a8136299b4a109501f0f8189d.svg",
     "static/media/eye.svg": "/dashboard/static/media/eye.c0f626738e5b3b21bae2d68b48a0f654.svg",
     "static/media/eye1.svg": "/dashboard/static/media/eye1.5536ce31064fd8a872c0c718a9b369d4.svg",
+    "static/media/iconQ.svg": "/dashboard/static/media/iconQ.8909c8195f6361066b923bdc67b1c153.svg",
     "index.html": "/dashboard/index.html",
     "static/media/star.svg": "/dashboard/static/media/star.23bb6472816b76622e517548d72dfbbb.svg",
     "static/media/fire.svg": "/dashboard/static/media/fire.38567d8c776d588b3a7cafab08a49441.svg",
@@ -21,11 +23,11 @@
     "static/media/plus.svg": "/dashboard/static/media/plus.5bbb14c8840ff383e2b34a9103dc8fd9.svg",
     "static/media/selectarrow.svg": "/dashboard/static/media/selectarrow.7952348de53019e917ef11121b2ae644.svg",
     "static/media/linevert.svg": "/dashboard/static/media/linevert.b9a61d0103b76fabfdad2add3fa54b5f.svg",
-    "main.ca178fb4.css.map": "/dashboard/static/css/main.ca178fb4.css.map",
-    "main.6d8f11bf.js.map": "/dashboard/static/js/main.6d8f11bf.js.map"
+    "main.2bec78f9.css.map": "/dashboard/static/css/main.2bec78f9.css.map",
+    "main.f8525372.js.map": "/dashboard/static/js/main.f8525372.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca178fb4.css",
-    "static/js/main.6d8f11bf.js"
+    "static/css/main.2bec78f9.css",
+    "static/js/main.f8525372.js"
   ]
 }
